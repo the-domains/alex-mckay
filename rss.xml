@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Alex McKay]]></title>
         <description><![CDATA[Alex McKay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alex-mckay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 16:44:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 16:51:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex-mckay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I just joined a startup!]]></title>
+            <description><![CDATA[<article><h1>I just joined a startup!</h1><h2>The Ratings Revolution</h2><p>truRating has the first point of payment integrated rating system. I am 
+joining as a payment consultant to help them integrate with the Canadian
+ payments ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e803135e4bc304a05c223fcdcc4fc4b462da685.png"></article>]]></description>
+            <link>https://thegrid.ai/alex-mckay/i-just-joined-a-startup/index.html</link>
+            <guid isPermaLink="false">b49e5215-f7b6-4372-8424-df45b78f0039</guid>
+            <pubDate>Wed, 24 Feb 2016 16:50:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82ab2cc7-ae06-409d-a6c6-eb8874ced577.jpg">]]></description>
-            <link>undefinedc16ed91e-06c4-4cc3-883b-1d216635d366/index.html</link>
+            <link>https://thegrid.ai/alex-mckay/c16ed91e-06c4-4cc3-883b-1d216635d366/index.html</link>
             <guid isPermaLink="false">c16ed91e-06c4-4cc3-883b-1d216635d366</guid>
             <pubDate>Wed, 24 Feb 2016 16:44:35 GMT</pubDate>
         </item>
