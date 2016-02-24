@@ -1,0 +1,28 @@
+name: Alex McKay
+favicon: null
+layout_spectrum: 0.5385258367750794
+typography_spectrum: 0.521122342441231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5423712977208197
+  lightness: 0.660317124100402
+  saturation: 0.9746140914503485
+  rhythmicContrast: 0.22121160966344178
+purpose: []
